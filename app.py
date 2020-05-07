@@ -10,6 +10,9 @@ DATA_URL = (
 )
 
 st.write("# Uber Pickups in New York City")
+st.write("## Arturo Cardenas, May 2020")
+st.write("### First Deployment to Google Cloud using Python3 and StreamLit")
+
 st.markdown(
 """
 This is a demo of a Streamlit app that shows the Uber pickups
