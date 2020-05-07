@@ -12,6 +12,10 @@ DATA_URL = (
 st.write("# Uber Pickups in New York City")
 st.write("## Arturo Cardenas, May 2020")
 st.write("### First Deployment to Google Cloud using Python3 and StreamLit")
+st.write("### Instructions:")
+st.write("### use <shift-key> and mouse to rotate")
+st.write("### use mouse scroll wheel to zoom in/out")
+st.write("### or just drag with mouse")
 
 st.markdown(
 """
