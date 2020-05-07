@@ -1,12 +1,12 @@
 # Python and StreamLit (Web framework)
 ## Arturo Cardenas, May 2020
-### Final Python Dashboard at: https://acarden6.shinyapps.io/Dashboard_NHANES/ 
+### Final Python Dashboard at: https://project-python-streamlit.uc.r.appspot.com/ 
 #### StreamLit: https://docs.streamlit.io/ 
 #### 
 
 <!-- __If you don't know what the Predictive Power Score is, please read the following blog post: [RIP correlation. Introducing the Predictive Power Score](https://bamboolib.com)__ -->
 
-This is my first complete R Shiny Dashboard
+This is my first Python3 and StreamLit deployment on the google cloud
 
 
 - [Installation](#installation)
@@ -18,7 +18,7 @@ This is my first complete R Shiny Dashboard
 
 ## Installation
 
-> You need R 3.6 or above.
+> You need Python 3.7 or above.
 
 From the terminal (or Anaconda prompt in Windows), enter:
 
