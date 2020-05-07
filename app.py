@@ -15,7 +15,7 @@ st.markdown(
 This is a demo of a Streamlit app that shows the Uber pickups
 geographical distribution in New York City. Use the slider
 to pick a specific hour and look at how the charts change.
-[See source code](https://github.com/streamlit/demo-uber-nyc-pickups/blob/master/app.py)
+[See source code](https://github.com/ArtCardenas/Python_Streamlit/blob/master/app.py)
 """)
 
 @st.cache  # keeps data in memory, we can use interactively  (persist=True)
